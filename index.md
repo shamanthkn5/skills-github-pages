@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Github Skill: Welcome to the Tutorials
 ---
 
